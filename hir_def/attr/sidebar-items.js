@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["AttrInput",""]],"struct":[["Attr",""],["AttrQuery",""],["Attrs",""],["Documentation","Holds documentation"],["RawAttrs","Syntactical attributes, without filtering of `cfg_attr`s."]]});
